@@ -1,0 +1,2 @@
+# PEFT_Classification
+用PEFT微调方法做分类任务（根据需求选择p_tuning/prompt_tuning/prefix_tuning/lora_tuning微调方法）
